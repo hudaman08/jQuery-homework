@@ -1,0 +1,47 @@
+div.clearfix{
+  clear: both;
+}
+
+div.wrapper{
+  width: 100%;
+  /*margin: 0 auto;*/
+}
+
+div.box{
+  height: 200px;
+  width: 12.5%;
+  margin: 1% 2.5%;
+  float: left;
+}
+
+div.upper{
+  background-color: lightblue;
+}
+
+div.middle{
+  background-color: orange;
+}
+
+div.lower{
+  background-color: green;
+}
+
+div#upperfirst{
+    margin-left: 10%;
+}
+
+div#middlefirst{
+    margin-left: 5%;
+}
+
+div#lowerfirst{
+  margin-left: 0%;
+}
+
+div.left{
+
+}
+
+div.right{
+
+}
